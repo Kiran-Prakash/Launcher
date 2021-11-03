@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3/zv3hh/Gjfw0p2YpLYoyRqvPdDWOeEFW1uaw3sfVzipUW6owhlzYF56hHpg37D1nWvDdUSdjrTY23/evWbXlw==",
+  "success": true,
+  "projectFilePath": "D:\\UdemyTrainings\\Launcher\\Launcher\\Launcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prakaski\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
